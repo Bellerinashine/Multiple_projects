@@ -1,0 +1,163 @@
+*{
+    margin: 0%;
+}
+h2{
+    color: rgb(226, 212, 217);
+    display: inline;
+    margin-right: 500px;
+}
+.ku{
+    margin-top: 50px;
+}
+
+.po{
+    background-color: rgb(19, 9, 53);
+    height: auto;
+    width: 1350px;
+    background-size: cover ;
+  
+    background-attachment: fixed;
+    background-size: contain;
+    
+}   
+.co{
+    background-color: rgb(224, 15, 78);
+    height: 30px;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+.#coi{
+;
+}
+.mo{
+    margin-left: 250px;
+}
+button{
+background-color: rgb(36, 28, 28);
+color: aliceblue;
+justify-content: center;
+    
+}
+h1{
+    display: inline;
+    font-size: 4em;
+    align-content: center;
+    
+}
+a{
+    color: #f7e8ec;
+}
+.moo{
+    height: 1000px;
+    word-spacing: 5px;
+    
+    color: rgb(245, 10, 100);
+    background-color: antiquewhite;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-display: block;
+    justify-content: center;
+    align-content: center;
+    font-style: italic;
+    font-weight: bolder
+    
+
+    align-items: center;
+    text-align: center;
+
+}
+.koo{
+background-image: url(yangskitchen_home.jpg);
+height: 900px;
+width: 100%;
+background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+}
+.coo{
+background-color: rgb(231, 154, 186) ;
+background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+    width: 100%;
+    
+
+}
+#col{
+    color: rgb(255, 0, 76);
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 100px;
+    
+
+}
+.too{
+    background-color: #f7e8ec;
+    height: 1500px;
+    float: ;
+    color: rgb(241, 14, 90)
+    
+}
+
+ .ni{
+ display: flex;
+ padding-right:150px;  
+ float: right; 
+}
+.nit{
+    padding-top: 300px;
+    margin-right: 100px;
+    margin-bottom: 300px;
+    height: 200px;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+    display: flex;
+    float: right;
+}
+#nity{
+    margin-left: 500px;
+    
+    
+}
+
+.ku{
+    
+    margin: 5px; 
+    height: 50px;
+     width: 300px;
+     sp
+}
+.fa {
+    margin-left: 600px;
+    margin-top:100px;
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    display: inline;
+    
+  }
+  .fa:hover {
+    opacity: 0.7;
+  }
+  .fa-facebook {
+    
+    background: #3B5998;
+    color: white;
+    
+  } 
+  .fa-twitter {
+    margin-top: 50px;
+    background: #55ACEE;
+    color: white;
+  } 
